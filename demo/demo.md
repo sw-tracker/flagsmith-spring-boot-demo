@@ -85,7 +85,6 @@
 
 - Flagsmith WebApp: [http://localhost:8888/](http://localhost:8888/)
 - Flagmisth API: [http://localhost:8000/](http://localhost:8000/)
-- Flagsmith Docs: TBD
 
 [![BYOD Setup](./assets/byod-setup.png)](http://localhost:9999/for-developers/local-byod/)
 
